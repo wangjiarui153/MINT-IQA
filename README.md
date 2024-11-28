@@ -23,6 +23,13 @@ Install dependencies using requirements.txt:
 ```
 pip install -r requirements.txt
 ```
+## 🚀 Weight and Database Download
+The codes and inference weights can be downloaded from 
+链接：https://pan.baidu.com/s/1dJNN9sL-cPytOm8vjEDEHQ 
+提取码：k2vf 
+
+The Database is in:
+https://github.com/wangjiarui153/AIGCIQA2023
 
 ## 🌈 Inference
 
@@ -59,7 +66,4 @@ If you find AIGV-Assessor is helpful, please cite:
 }
 ```
 
-# MINT-IQA
-The codes and inference weights can be downloaded from 
-链接：https://pan.baidu.com/s/1dJNN9sL-cPytOm8vjEDEHQ 
-提取码：k2vf 
+
